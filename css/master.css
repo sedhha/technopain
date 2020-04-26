@@ -1,0 +1,150 @@
+body
+{
+  background-color: #cff1ef;
+  margin: 0;
+}
+h4
+{
+  margin-top: 0;
+}
+/*************************************Classes*************************************/
+/*Fonts here: https://www.cssfontstack.com/*/
+.AHref
+{
+  color: white;
+  font-family: sans-serif;
+  text-decoration: none;
+  padding: 10px;
+}
+.AHref:hover
+{
+  background-color: #a8d3da;
+}
+.BGH1
+{
+  margin-bottom: 0;
+  font-size: 48px;
+}
+.BGP
+{
+  margin-top:2px;
+  font-size: 20px;
+}
+.BlueEnd
+{
+  /*height: 80px;*/
+  background-color: #367690;
+  width:100%
+}
+.Container
+{
+  position: relative;
+
+}
+.DivClass
+{
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 36;
+}
+.ExploreHeading
+{
+  font-size: 28px;
+  font-style: oblique;
+  color: #4DFF4D;
+  text-align: center;
+}
+.ExploreHeading_Side
+{
+  font-size: 28px;
+  font-style: oblique;
+  color: #4DFF4D;
+  padding-left:5%;
+  font-family: 'Inconsolata', monospace;
+}
+.GeneralParas
+{
+  padding-left: 5%;
+  padding-right: 10%;
+  color: #4d4c7d;
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  list-style: 2;
+}
+.IconFormatter
+{
+  height: 50px;
+  width: 50px;
+  margin-left: 50%;
+  margin-right: auto;
+  border-radius: 8%;
+}
+.IconFormatter2
+{
+  height: 50px;
+  width: 50px;
+  margin-left: 50%;
+  margin-right: auto;
+}
+.IconImage
+{
+  width:8%;
+  height:8%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.InitialCenterHeadings
+{
+  text-align: center;
+  font-size: 44px; /*100%=16px*/
+  font-family: 'Sacramento', cursive;
+  font-style: italic;
+  left:20%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.LargeScaleImage
+{
+  border-radius: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.LowerPadding
+{
+  margin-bottom: 0;
+}
+
+.MidSection
+{
+  background-color: #cff1ef;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.ResizeImage
+{
+  height: auto;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  opacity: 1.0;
+}
+.TitleBar
+{
+  background-color: #367690;
+  /*height: 40%;*/
+
+}
+.TextField
+{
+  position: absolute;
+  bottom: 40%;
+  left:35%;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.TextField:hover
+{
+  opacity: 0.8;
+}
